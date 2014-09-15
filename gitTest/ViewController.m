@@ -29,4 +29,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)btnAction:(id)sender {
+    NSLog(@"Give Control To Another View");
+}
 @end
