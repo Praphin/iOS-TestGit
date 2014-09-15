@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"App Opens Up");
+    
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
